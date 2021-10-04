@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Features.css"
+import "./Features.css";
 import useData from '../../hooks/useData';
 import FeatureDetail from '../FeatureDetail/FeatureDetail';
 
@@ -16,7 +16,7 @@ const Features = () => {
 
                         Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
                 </div>
-                <div className="row g-0 color-container">
+                <div className="row g-0 features-color">
                     <div className="col-md-4 ">
                         <img src="https://images.unsplash.com/photo-1588026193712-31163b26c043?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80" alt="" className="img-fluid rounded-start card-img" />
                     </div>

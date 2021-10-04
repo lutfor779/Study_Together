@@ -8,7 +8,7 @@ const NotFound = () => {
             <img src="https://shop2shop.co/images/404.gif" alt="" className="rounded-3 img-fluid mb-5" />
             <br />
             <Link to="/home">
-                <button type="button" className="btn btn-dark">Home</button>
+                <button type="button" className="btn btn-primary">Home</button>
             </Link>
         </div>
     );

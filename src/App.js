@@ -5,6 +5,7 @@ import Courses from './components/Courses/Courses';
 import Features from './components/Features/Features';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
+import Home from './components/Home/Home';
 import NotFound from './components/NotFound/NotFound';
 import Services from './components/Services/Services';
 
@@ -15,10 +16,10 @@ function App() {
       <main style={{minHeight:"800px"}}>
         <Switch>
           <Route exact path="/">
-
+            <Home></Home>
           </Route>
           <Route path="/home">
-
+            <Home></Home>
           </Route>
           <Route path="/courses">
             <Courses></Courses>

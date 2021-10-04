@@ -14,7 +14,7 @@ const Courses = () => {
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis laudantium quia quos impedit provident cumque tempore, ullam id minima illo quam exercitationem ab ea sunt vel et saepe dolores eligendi.</p>
                 <small className="text-primary">START LEARNING TODAY</small>
             </div>
-            <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 color-container">
+            <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 color-container p-4">
                 {
                     courses && courses.map(course => <Course key={course.id} course={course}></Course>)
                 }
