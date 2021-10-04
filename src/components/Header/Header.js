@@ -36,11 +36,13 @@ const Header = () => {
             {/* photo */}
             <div className="card bg-dark">
                 <img src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/06/full-stack-4-6-2019-banner-1.jpg" className="card-img header-img" alt="..." />
-                <div className="card-img-overlay text-center mt-5 header-text">
+                <div className="card-img-overlay text-center mt-3 header-text">
                     <h1 className="card-title">We StudyTogether Are Online Platform For Make Learn</h1>
                     <br/>
-                    <p className="card-text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
-                    <p className="card-text">Learn something new every day with skwela lorem ipsum dolor sit amet.</p>
+                    <div className="site-detail">
+                        <p className="card-text">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+                        <p className="card-text">Learn something new every day with skwela lorem ipsum dolor sit amet.</p>
+                    </div>
                 </div>
             </div>
         </div>
