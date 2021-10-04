@@ -8,7 +8,7 @@ const Courses = () => {
     const { courses } = fakeData;
     // console.log(courses);
     return (
-        <div className="container mt-5">
+        <div className="container my-5">
             <div className="text-center mb-5 w-50 mx-auto">
                 <h1>Our Courses</h1>
                 <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Perferendis laudantium quia quos impedit provident cumque tempore, ullam id minima illo quam exercitationem ab ea sunt vel et saepe dolores eligendi.</p>

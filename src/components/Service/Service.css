@@ -3,6 +3,9 @@
     height: 250px;
     margin: auto;
 }
+.custom-card{
+    height: 530px !important;   
+}
 .all-card{
     background-image: linear-gradient(to right top, #e6e6fa93, #ddefff93, #daf6fc73, #e1fcf6, #f0fff08e);
     border-radius: 15px;

@@ -7,14 +7,14 @@ const Course = (props) => {
     return (
         <div>
             <div className="col ">
-                <div className="card h-100 all-card course-card">
+                <div className="card h-100 all-card custom-card">
                     <img src={img} className="card-img-top course-img" alt="..." />
                     <div className="card-body">
                         <h5 className="card-title">{name}</h5>
                         <p className="card-text">{description}</p>                        
                     </div>
                     <div className="card-footer text-end">
-                        <button type="button" className="btn btn-warning me-4 px-3">${price}</button>
+                        <button type="button" className="btn btn-danger me-4 px-3">${price}</button>
                         <button type="button" className="btn btn-success px-3">Enroll</button>
                     </div>
                 </div>
