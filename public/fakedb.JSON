@@ -1,0 +1,138 @@
+
+  {
+    "courses": [
+      {
+        "id": 1,
+        "name": "Web Developer",
+        "description": "A Web Developer is responsible for the coding, design and layout of a website according to a company’s specifications. Once a website has been created, a Web Developer will generally assist with the maintenance and upkeep of the website.",
+        "price": 100,
+        "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--QEvwbzaE--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6ae5dzbl9t87d5arre92.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Web Designemr",
+        "description": "A web designer is responsible for creating the design and layout of a website or web pages.Web designers plan, create and code internet sites and web pages. It and can mean working on a brand new website or updating an already existing site.",
+        "price": 95,
+        "img": "https://milhostech.com/wp-content/uploads/2019/11/Engage-Customers-Via-Web-Design.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Graphic Design",
+        "description": "Graphic designers create visual text and imagery concepts. They develop the overall layout and production design for advertisements, brochures, magazines, and corporate reports, etc.",
+        "price": 90,
+        "img": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/thumbnail/lead/news/1071218_Graphic-Design.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Debugging",
+        "description": "Debugs software products through the use of systematic tests to develop, apply, and maintain quality standards for company products. Analyzes test results to ensure correct functionality. Maintains documentation of test results to assist in debugging and modification of software.",
+        "price": 110,
+        "img": "https://railsware.com/blog/wp-content/uploads/2018/05/Debugging-React-Native-Illustration.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Hacking",
+        "description": "A hacker is just a person who uses computer programming or technical skills to overcome a challenge or problem. These are hackers who intentionally violate computer security for a variety of reasons, such as theft, fraud and even old-fashioned malice.",
+        "price": 150,
+        "img": "https://cdn-ckped.nitrocdn.com/SrXnwbBDqaYsBrECpYPhxktozdfNZtTj/assets/static/optimized/rev-95b2c27/wp-content/uploads/media-library/hooded-hacker-on-comupter-digital-brain-potential-blog-post-e1573366318920.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Programmer",
+        "description": "A Computer Programmer, or Systems Programmer, writes code to help software applications operate more efficiently. Their duties include designing and updating software solutions, writing and updating source-code and managing various operating systems.",
+        "price": 95,
+        "img": "https://codersera.com/blog/wp-content/uploads/2019/07/Programming-Languages-for-Bots.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Photoshop",
+        "description": "Photoshop is Adobe's photo editing, image creation and graphic design software. The software provides many image editing features for raster images. It uses a layer-based editing system that enables image creation and altering with multiple overlays that support transparency.",
+        "price": 65,
+        "img": "https://www.techspot.com/articles-info/2250/images/2021-05-07-image.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Programming Languages",
+        "description": "A programming language is a formal language comprising a set of strings that produce various kinds of machine code output. Programming languages are one kind of computer language, and are used in computer programming to implement algorithms.",
+        "price": 100,
+        "img": "https://insights.dice.com/wp-content/uploads/2017/07/Programming-Language-Popularity.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Freelancing",
+        "description": "Freelancers are self-employed individuals who are not contractually bound to one specific employer. Freelancers can work in virtually any sector, though most work in marketing and communications, creative arts, and information technology.",
+        "price": 100,
+        "img": "https://cdn.pixabay.com/photo/2021/01/11/06/01/freelance-5907232_960_720.png"
+      }
+    ],
+    "features": [
+      {
+        "id": 1,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17kpVTELIVtQMbqh-gdsRM8R9Ah01Y-u-KsdQ1IDutAaVbiybytqMlX4d0mrC4P-KNn0&usqp=CAU",
+        "title": "Online Courses",
+        "detail": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+      },
+      {
+        "id": 2,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Tjlyz3iM4a2L9i4o9QNuJFx4n6q9Crh-nPk1mp3Y8KWpkcB7kfmygUFoMnCH1pjrsNU&usqp=CAU",
+        "title": "Earn A Certificates",
+        "detail": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+      },
+      {
+        "id": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5hn58_aCJ5b42uq-qf9VJvdN-0IyFBPnqTQ26l88MekuOxiERC2RLpB6NcziPFsd_fq8&usqp=CAU",
+        "title": "Learn with Expert",
+        "detail": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+      }
+    ],
+    "services": [
+      {
+        "id": 1,
+        "title": "Online trainings from experts",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!",
+        "img": "https://thumbs.dreamstime.com/b/online-trainer-line-icon-concept-online-trainer-flat-vector-symbol-sign-outline-illustration-online-trainer-line-concept-icon-143157762.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Learn anywhere in the world",
+        "about": "Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.",
+        "img": "https://www.nicepng.com/png/detail/683-6839930_learn-from-anywhere.png"
+      },
+      {
+        "id": 3,
+        "title": "Creative learning video",
+        "about": "Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.",
+        "img": "https://thumbs.dreamstime.com/b/educational-video-icon-vector-sign-symbol-isolated-white-background-logo-concept-your-web-mobile-app-design-134158871.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Audio learning",
+        "about": "Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8qqsTZ1QnpC5B7SQEJHd9fUAH2QIWS730ROxsh9DAv-JvYmTYUKdobIiIdVxV5NuyWA&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "title": "Online trainings from experts",
+        "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora fuga suscipit numquam esse saepe quam, eveniet iure assumenda dignissimos aliquam!",
+        "img": "https://thumbs.dreamstime.com/b/online-trainer-icon-flat-style-vector-eps-online-trainer-icon-160435197.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Learn anywhere in the world",
+        "about": "Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.",
+        "img": "https://cdn.dribbble.com/users/562717/screenshots/7619638/anywhere_1600x1200.png?compress=1&resize=400x300"
+      },
+      {
+        "id": 7,
+        "title": "Creative learning video",
+        "about": "Delectus fuga voluptatum minus amet, mollitia distinctio assumenda voluptate quas repellat eius quisquam odio. Aliquam, laudantium, optio? Error velit, alias.",
+        "img": "https://www.pngitem.com/pimgs/m/324-3248253_video-training-icon-sign-hd-png-download.png"
+      },
+      {
+        "id": 8,
+        "title": "Audio learning",
+        "about": "Harum, adipisci, aspernatur. Vero repudiandae quos ab debitis, fugiat culpa obcaecati, voluptatibus ad distinctio cum soluta fugit sed animi eaque?",
+        "img": "https://image.freepik.com/free-vector/audiobooks-logo-listen-literature-e-books-audio-format-books-online-mobile-application-flat-icon-online-audiobook-with-headphones-distance-education-e-learning-podcast-webinar-tutorial_435184-200.jpg"
+      }
+    ]
+  }

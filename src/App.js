@@ -1,37 +1,45 @@
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
+import About from './components/About/About';
+import Courses from './components/Courses/Courses';
+import Features from './components/Features/Features';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
 import NotFound from './components/NotFound/NotFound';
+import Services from './components/Services/Services';
 
 function App() {
   return (
     <Router>
       <Header></Header>
-      <Switch>
-        <Route exact path="/">
-          
-        </Route>
-        <Route path="/home">
+      <main style={{minHeight:"800px"}}>
+        <Switch>
+          <Route exact path="/">
 
-        </Route>
-        <Route path="/courses">
+          </Route>
+          <Route path="/home">
 
-        </Route>
-        <Route path="/features">
-
-        </Route>
-        <Route path="/services">
-
-        </Route>
-        <Route path="/about">
-
-        </Route>
-        <Route path="*">
-          <NotFound></NotFound>
-        </Route>
-      </Switch>
-      <Footer></Footer>
+          </Route>
+          <Route path="/courses">
+            <Courses></Courses>
+          </Route>
+          <Route path="/features">
+            <Features></Features>
+          </Route>
+          <Route path="/services">
+            <Services></Services>
+          </Route>
+          <Route path="/about">
+            <About></About>
+          </Route>
+          <Route path="*">
+            <NotFound></NotFound>
+          </Route>
+        </Switch>
+      </main>
+      <footer>
+        <Footer></Footer>
+      </footer>
     </Router>
   );
 }
